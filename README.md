@@ -10,5 +10,5 @@
 ### • Commit dan push repository ke github
 
 ## Sourcecode dan running program list.
-![gambar1](ssan/proglist.png
-![gambar2](ssan/proglist.png
+![gambar1](ssan/proglist.png)
+![gambar2](ssan/hasillist.png)
